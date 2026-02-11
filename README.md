@@ -45,4 +45,9 @@ Cd proyecto
 
 [![Click para ver video](asset/OIP.webp)](https://www.youtube.com/watch?v=Aw3VATfrPyI)
 
-[![click](https://pngfre.com/wp-content/uploads/anime-187.png)](https://www.youtube.com/watch?v=YpgkXFPEP7o)git 
+[![click](asset/https://pngfre.com/wp-content/uploads/anime-187.png)](https://www.youtube.com/watch?v=YpgkXFPEP7o)
+---
+## Demo
+Si quiere ver el programa dar cick
+
+[open in stackblizt](https://stackblitz.com/edit/secret-python-3uznyr4w?file=main.py)
