@@ -12,10 +12,10 @@ Breve descripcion
 
 
 ## Caracteristias 
--Funcionalidad 1 
--Funcionalidad 2
--Funcionalidad 3 
--Funcionalida 4
+-Funcionalidad:1 
+-Funcionalidad:2
+-Funcionalidad:3 
+-Funcionalidad:4
 
 ---
 
