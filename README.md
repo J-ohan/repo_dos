@@ -33,6 +33,13 @@ Breve descripcion
 
 Pasos para instalar el proyecto localmente
 
+4564313543651324864634
+56
+
+
+
+376+786
+
 ```bash 
 git clone https://github.com/J-ohan/repo_dos.git
 Cd proyecto
