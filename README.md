@@ -1,4 +1,4 @@
-# pryecto de uso de herramienta GIT con contribuyentes
+# proyecto de uso de herramienta GIT con contribuyentes
 
 
 Breve descripcion 
@@ -14,14 +14,15 @@ Breve descripcion
 ## Caracteristias 
 -Funcionalidad 1 
 -Funcionalidad 2
--Funconalidad 3 
+-Funcionalidad 3 
+-Funcionalida 4
 
 ---
 
 ## Tecnologias
 -Lenguaje
 -Base de datos
-.Librerias claves 
+-Librerias claves 
 
 ---
 ## Requerimientos 
