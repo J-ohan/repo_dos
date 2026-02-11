@@ -37,3 +37,10 @@ Pasos para instalar el proyecto localmente
 ```bash 
 git clone https://github.com/J-ohan/repo_dos.git
 Cd proyecto
+
+```
+
+---
+## video tutorial
+
+[![Click para ver video](asset/OIP.webp)](https://www.youtube.com/watch?v=Aw3VATfrPyI)
