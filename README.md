@@ -12,10 +12,10 @@ Breve descripcion
 
 
 ## Caracteristias 
--Funcionalidad 1 
--Funcionalidad 2
--Funcionalidad 3 
--Funcionalida 4
+-Funcionalidad:1 
+-Funcionalidad:2
+-Funcionalidad:3 
+-Funcionalidad:4
 
 ---
 
@@ -33,6 +33,8 @@ Breve descripcion
 ## Instalacion
 
 Pasos para instalar el proyecto localmente
+
+dfafsasdsadsadsadadsadsa
 
 ```bash 
 git clone https://github.com/J-ohan/repo_dos.git
