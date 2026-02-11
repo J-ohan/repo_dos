@@ -33,7 +33,9 @@ Breve descripcion
 ## Instalacion
 
 Pasos para instalar el proyecto localmente
-
+gfdsdsñg4r542fdb
+gfgr´qjg
+gfdgfdwergfw556f
 ```bash 
 git clone https://github.com/J-ohan/repo_dos.git
 Cd proyecto
